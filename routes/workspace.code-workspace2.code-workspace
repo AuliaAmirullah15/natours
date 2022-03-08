@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "path": "../../.."
+    },
+    {
+      "path": "../../../../../vue-projects/speskill-test"
+    },
+    {
+      "path": "../../../../../vi8e/current_quasar_activate/quasar-inventory"
+    },
+    {
+      "path": "../../../../../vi8e/current_quasar_activate/quasar2-activate-backup-animation"
+    },
+    {
+      "path": "../../../../../vue-projects/my-projects"
+    },
+    {
+      "path": "../../../../../../Users/auliaamirullah/Development/playground/first_app"
+    },
+    {
+      "path": "../../../../../vi8e/current_quasar_activate/quasar2-backup"
+    },
+    {
+      "path": "../../../../../IBM Cloud Computing/lab2_template"
+    },
+    {
+      "path": "../../../../../../Users/auliaamirullah/Development/playground/flutter_complete_guide"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true
+  }
+}
